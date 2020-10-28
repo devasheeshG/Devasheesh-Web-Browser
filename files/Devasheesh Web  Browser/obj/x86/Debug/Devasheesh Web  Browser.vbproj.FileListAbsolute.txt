@@ -1,0 +1,13 @@
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\bin\Debug\Devasheesh Web  Browser.exe
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\bin\Debug\Devasheesh Web  Browser.pdb
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\bin\Debug\Devasheesh Web  Browser.xml
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\obj\x86\Debug\Devasheesh_Web__Browser.Resources.resources
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\obj\x86\Debug\Devasheesh Web  Browser.vbproj.GenerateResource.Cache
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\obj\x86\Debug\Devasheesh Web  Browser.exe
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\obj\x86\Debug\Devasheesh Web  Browser.xml
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\obj\x86\Debug\Devasheesh Web  Browser.pdb
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\obj\x86\Debug\Devasheesh_Web__Browser.Form1.resources
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\obj\x86\Debug\Devasheesh Web  Browser.vbprojResolveAssemblyReference.cache
+H:\# Buzz2Day Tech\# Visual Studio Projects Playlist (33)\#1 How to Create Web Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\obj\x86\Debug\Devasheesh Web  Browser.exe
+H:\# Buzz2Day Tech\# Visual Studio Projects Playlist (33)\#1 How to Create Web Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\obj\x86\Debug\Devasheesh Web  Browser.xml
+H:\# Buzz2Day Tech\# Visual Studio Projects Playlist (33)\#1 How to Create Web Browser\Devasheesh Web  Browser\Devasheesh Web  Browser\obj\x86\Debug\Devasheesh Web  Browser.pdb
